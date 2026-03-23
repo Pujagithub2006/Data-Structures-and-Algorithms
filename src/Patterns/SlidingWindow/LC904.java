@@ -23,6 +23,5 @@ class LC904 {
         }
 
         return maxLen;
-
     }
 }
