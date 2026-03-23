@@ -24,7 +24,6 @@ public class LC643 {
 
             maxSum = Math.max(maxSum, sum);
         }
-
         return (double) maxSum / k;
 
     }
