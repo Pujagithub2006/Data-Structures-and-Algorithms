@@ -1,4 +1,4 @@
-package search.linear;
+package Topics.search.linear;
 
 public class SearchInRange {
     public static void main(String[] args) {

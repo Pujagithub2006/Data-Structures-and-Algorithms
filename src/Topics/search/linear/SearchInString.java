@@ -1,4 +1,4 @@
-package search.linear;
+package Topics.search.linear;
 
 import java.util.Arrays;
 
@@ -8,7 +8,7 @@ public class SearchInString {
         char target = 'j';
         boolean ans = string(str, target);
         System.out.println(ans);
-//        System.out.println(Arrays.toString(str.toCharArray())); // excellent use to show, explore!
+//        System.out.println(Topics.Arrays.toString(str.toCharArray())); // excellent use to show, explore!
     }
 
     static boolean string(String str, char target) {
@@ -17,7 +17,7 @@ public class SearchInString {
         }
 
         for (int i = 0; i < str.length(); i++) {
-            int element = str.charAt(i); // accessing any character using index in Strings
+            int element = str.charAt(i); // accessing any character using index in Topics.Strings
             if (element == target) {
                 return true;
             }
