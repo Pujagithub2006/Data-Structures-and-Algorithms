@@ -1,4 +1,4 @@
-package Patterns.SlidingWindow;
+package Patterns.TwoPointers.SlidingWindow;
 
 // Problem Link - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=problem-list-v2&envId=w3bix3ih
 // LC 121 - Best Time to Buy and Sell Stock

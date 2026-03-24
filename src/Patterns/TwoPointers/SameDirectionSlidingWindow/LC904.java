@@ -1,4 +1,4 @@
-package Patterns.SlidingWindow;
+package Patterns.TwoPointers.SlidingWindow;
 import java.util.HashMap;
 
 // Problem Link - https://leetcode.com/problems/fruit-into-baskets/description/?envType=problem-list-v2&envId=w3bix3ih

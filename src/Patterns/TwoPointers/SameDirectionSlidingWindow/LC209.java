@@ -1,4 +1,4 @@
-package Patterns.SlidingWindow;
+package Patterns.TwoPointers.SlidingWindow;
 
 // Problem Link - https://leetcode.com/problems/minimum-size-subarray-sum/?envType=problem-list-v2&envId=w3bix3ih
 // LC 209 - Minimum Size Subarray Sum

@@ -1,4 +1,4 @@
-package Patterns.SlidingWindow;
+package Patterns.TwoPointers.SlidingWindow;
 
 // Problem Link - https://leetcode.com/problems/maximum-average-subarray-i/?envType=problem-list-v2&envId=w3bix3ih
 // LC 643 - Maximum Average Subarray 1
