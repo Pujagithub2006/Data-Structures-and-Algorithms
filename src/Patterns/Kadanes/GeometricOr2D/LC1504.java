@@ -1,2 +1,4 @@
-package Patterns.Kadanes.GeometricOr2D;public class LC1504 {
+package Patterns.Kadanes.GeometricOr2D;
+
+public class LC1504 {
 }
